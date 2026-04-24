@@ -1,0 +1,402 @@
+[
+  {
+    "id": "q1",
+    "question": "Does the article 'Genetics in Cardiology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q2",
+    "question": "Based on the research paper titled 'Facilities in Molecular Biomarkers in Cardiology.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q3",
+    "question": "Does the article 'Preventive Cardiology and New Methods.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q4",
+    "question": "Based on the research paper titled 'European Society of Cardiology: the 2023 Atlas of Cardiovascular Disease Statistics.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q5",
+    "question": "Based on the research paper titled 'Curriculum interventional cardiology-Austria.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q6",
+    "question": "Does the article 'Advances and challenges in cardiology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q7",
+    "question": "Does the article 'Advances in pediatric cardiology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q8",
+    "question": "Does the article 'More interventional cardiology papers\u2026.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q9",
+    "question": "Based on the research paper titled 'Non-small cell lung cancer in China.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q10",
+    "question": "Based on the research paper titled 'Induction chemotherapy followed by standard chemoradiotherapy versus standard chemoradiotherapy alone in patients with locally advanced cervical cancer (GCIG INTERLACE): an international, multicentre, randomised phase 3 trial.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q11",
+    "question": "Based on the research paper titled 'Nuclear Cardio-Oncology.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q12",
+    "question": "Based on the research paper titled 'Artificial intelligence in oncology.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q13",
+    "question": "Based on the research paper titled 'Cardio-Immuno-Oncology.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q14",
+    "question": "Does the article 'Artificial intelligence and radiomics for radiation oncology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q15",
+    "question": "Based on the research paper titled 'Interventional Oncology: 2043 and Beyond.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q16",
+    "question": "Based on the research paper titled 'Non-Small-Cell Lung Cancer in 2022: A Review for General Practitioners in Oncology.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q17",
+    "question": "Based on the research paper titled 'Pragmatic solutions to reduce the global burden of stroke: a World Stroke Organization-Lancet Neurology Commission.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q18",
+    "question": "Based on the research paper titled 'Ethical Considerations in Dementia Diagnosis and Care: AAN Position Statement.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q19",
+    "question": "Does the article 'Medicolegal and Ethical Issues in Neurology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q20",
+    "question": "Does the article 'Humanities in Neurology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q21",
+    "question": "Based on the research paper titled 'World Federation of Neurology.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q22",
+    "question": "Based on the research paper titled 'Sleep Deprivation and Its Consequences.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q23",
+    "question": "Does the article 'In defence of general neurology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q24",
+    "question": "Does the article 'Finding Fellowship in Neurology Fellowship Recruitment.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q25",
+    "question": "Based on the research paper titled '\"New Normal\" Radiology.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q26",
+    "question": "Does the article 'Burnout in Radiology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q27",
+    "question": "Based on the research paper titled 'Imaging in Interventional Radiology: 2043 and Beyond.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q28",
+    "question": "Does the article 'Mentorship in Radiology and in Life.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q29",
+    "question": "Does the article 'Gender Discrimination and Harassment in Radiology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q30",
+    "question": "Does the article 'On Green Radiology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q31",
+    "question": "Does the article '<i>Dentomaxillofacial Radiology</i> in 2020-Exciting developments ahead.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q32",
+    "question": "Does the article 'Even in Radiology, Race Matters.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q33",
+    "question": "Based on the research paper titled 'The medical model and its application in mental health.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q34",
+    "question": "Based on the research paper titled 'Invasive Computational Psychiatry.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q35",
+    "question": "Does the article 'Firearms and psychiatry.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q36",
+    "question": "Based on the research paper titled 'How Probiotics Affect the Microbiota.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q37",
+    "question": "Based on the research paper titled 'World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders - Version 3. Part I: Anxiety disorders.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q38",
+    "question": "Does the article 'Pluralisms in psychiatry.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q39",
+    "question": "Based on the research paper titled 'Pharmacogenetics in Psychiatry.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q40",
+    "question": "Does the article 'Psychiatry and law in the digital age: untangling the hype, risk and promise.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q41",
+    "question": "Based on the research paper titled 'European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and Therapy of Glucocorticoid-induced Adrenal Insufficiency.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q42",
+    "question": "Based on the research paper titled 'An update on the pathogenesis of Hashimoto's thyroiditis.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q43",
+    "question": "Does the article 'Pituitary Endocrinology in 2020: An Update.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q44",
+    "question": "Does the article 'Editorial: Endocrinology in Cancer and Aging.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q45",
+    "question": "Based on the research paper titled 'Postmenopausal Osteoporosis: Latest Guidelines.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q46",
+    "question": "Does the article 'Editorial: Circadian rhythm in cellular endocrinology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q47",
+    "question": "Does the article 'Covid-19 and endocrinology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q48",
+    "question": "Based on the research paper titled 'European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and therapy of glucocorticoid-induced adrenal insufficiency.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q49",
+    "question": "Does the article 'Editorial: Interplay of Infection and Microbiome.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q50",
+    "question": "Does the article 'Infectious Disease Update: COVID-19 and Beyond.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q51",
+    "question": "Based on the research paper titled 'Urbanization and Infectious Disease.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q52",
+    "question": "Does the article 'Editorial: Zoonotic emerging viral infectious diseases.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q53",
+    "question": "Does the article 'Editorial: Emerging technologies in infectious disease treatment, prevention and control.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q54",
+    "question": "Does the article 'Editorial: Unconventional Animal Models in Infectious Disease Research.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q55",
+    "question": "Based on the research paper titled 'Common Sports Infectious Disease.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q56",
+    "question": "Based on the research paper titled 'Outcome Prediction in Infectious Disease.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q57",
+    "question": "Based on the research paper titled 'Embracing the challenges of neonatal and paediatric pulmonary hypertension.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q58",
+    "question": "Based on the research paper titled 'Inguinal hernias in children.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q59",
+    "question": "Based on the research paper titled 'Antibiotic Resistance in Paediatric Febrile Urinary Tract Infections.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q60",
+    "question": "Based on the research paper titled 'Childhood idiopathic nephrotic syndrome: recent advancements shaping future guidelines.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q61",
+    "question": "Based on the research paper titled 'Fundamentals and innovations in regional anaesthesia for infants and children.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q62",
+    "question": "Does the article 'Paediatric emergency medicine.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q63",
+    "question": "Based on the research paper titled 'Emergency pediatric patients and use of the pediatric assessment triangle tool (PAT): a scoping review.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q64",
+    "question": "Does the article 'Hemodynamic optimization in pediatrics: It is time to grow up.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q65",
+    "question": "Does the article '2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS).' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q66",
+    "question": "Based on the research paper titled 'Diagnosis and Treatment of Pleural Effusion. Recommendations of the Spanish Society of Pulmonology and Thoracic Surgery. Update 2022.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q67",
+    "question": "Based on the research paper titled 'ERS statement on benign pleural effusions in adults.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q68",
+    "question": "Based on the research paper titled 'Interventional pulmonology: between ambition and wisdom.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q69",
+    "question": "Does the article 'BTS Clinical Statement on pulmonary sarcoidosis.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q70",
+    "question": "Does the article 'Race, bias, disparities, and pulmonary medicine.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q71",
+    "question": "Based on the research paper titled 'Artificial intelligence in interventional pulmonology.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q72",
+    "question": "Based on the research paper titled 'Child Health and the Pediatric Pulmonology Workforce: 2020-2040.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q73",
+    "question": "Does the article 'World Gastroenterology Organisation Global Guidelines: Probiotics and Prebiotics.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q74",
+    "question": "Does the article 'Pride in gastroenterology and hepatology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q75",
+    "question": "Does the article 'Neonatal Gastroenterology: Challenges, Controversies, and Recent Advances.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q76",
+    "question": "Does the article 'Paradigm-Shifting Research in Gastroenterology, Hepatology, and Nutrition: A Top 20 List of Articles Published in 2020.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q77",
+    "question": "Does the article 'DEI in gastroenterology and hepatology.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q78",
+    "question": "Based on the research paper titled 'COVID-19 and Pediatric Gastroenterology.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q79",
+    "question": "Does the article 'Clinical Research Training During Gastroenterology Fellowship.' in your database provide information on clinical guidelines or is it primarily focused on professional development/trends? Explain based on the metadata."
+  },
+  {
+    "id": "q80",
+    "question": "Based on the research paper titled 'Many Paradoxes of My Gastroenterology Practice.', what were the primary findings or clinical conclusions discussed? Focus on data points explicitly mentioned in the text."
+  },
+  {
+    "id": "q81",
+    "question": "What are the general risk factors for type 2 diabetes in adult populations?"
+  },
+  {
+    "id": "q82",
+    "question": "Explain the standard protocol for administering basic life support (BLS)."
+  },
+  {
+    "id": "q83",
+    "question": "What is the difference between a simple fracture and a compound fracture?"
+  },
+  {
+    "id": "q84",
+    "question": "How does hypertension contribute to the risk of stroke in elderly patients?"
+  },
+  {
+    "id": "q85",
+    "question": "List the common symptoms associated with seasonal influenza."
+  },
+  {
+    "id": "q86",
+    "question": "What is the role of insulin in the human body's glucose metabolism?"
+  },
+  {
+    "id": "q87",
+    "question": "Describe the primary functions of the human liver in digestion."
+  },
+  {
+    "id": "q88",
+    "question": "What are the standard screening recommendations for breast cancer in women over 50?"
+  },
+  {
+    "id": "q89",
+    "question": "How do antibiotics differ from antiviral medications in terms of mechanism of action?"
+  },
+  {
+    "id": "q90",
+    "question": "Define 'herd immunity' and explain its importance in public health."
+  },
+  {
+    "id": "q91",
+    "question": "What is the difference between LDL and HDL cholesterol?"
+  },
+  {
+    "id": "q92",
+    "question": "Describe the physiological process of an allergic reaction."
+  },
+  {
+    "id": "q93",
+    "question": "What are the most common causes of chronic kidney disease?"
+  },
+  {
+    "id": "q94",
+    "question": "Explain the concept of 'triage' in an emergency department setting."
+  },
+  {
+    "id": "q95",
+    "question": "What is the primary purpose of a pulmonary function test?"
+  },
+  {
+    "id": "q96",
+    "question": "List the major components of a complete blood count (CBC) test."
+  },
+  {
+    "id": "q97",
+    "question": "How does dehydration affect blood pressure and heart rate?"
+  },
+  {
+    "id": "q98",
+    "question": "What are the clinical signs of a concussion following a head injury?"
+  },
+  {
+    "id": "q99",
+    "question": "Explain the basic pathophysiology of asthma during an acute flare-up."
+  },
+  {
+    "id": "q100",
+    "question": "What is the recommended daily intake of water for an average adult?"
+  }
+]
