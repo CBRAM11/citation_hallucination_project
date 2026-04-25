@@ -1,0 +1,82 @@
+{
+  "rag": {
+    "overall": {
+      "relevant": 1,
+      "partial": 6,
+      "irrelevant": 3,
+      "total": 10,
+      "relevant_rate": 0.1,
+      "partial_rate": 0.6,
+      "irrelevant_rate": 0.3
+    },
+    "by_domain": {
+      "cardiology": {
+        "relevant": 1,
+        "partial": 3,
+        "irrelevant": 0,
+        "total": 4,
+        "relevant_rate": 0.25,
+        "partial_rate": 0.75,
+        "irrelevant_rate": 0.0
+      },
+      "infectious_disease": {
+        "relevant": 0,
+        "partial": 2,
+        "irrelevant": 2,
+        "total": 4,
+        "relevant_rate": 0.0,
+        "partial_rate": 0.5,
+        "irrelevant_rate": 0.5
+      },
+      "gastroenterology": {
+        "relevant": 0,
+        "partial": 1,
+        "irrelevant": 1,
+        "total": 2,
+        "relevant_rate": 0.0,
+        "partial_rate": 0.5,
+        "irrelevant_rate": 0.5
+      }
+    }
+  },
+  "constrained_rag": {
+    "overall": {
+      "relevant": 1,
+      "partial": 6,
+      "irrelevant": 1,
+      "total": 8,
+      "relevant_rate": 0.125,
+      "partial_rate": 0.75,
+      "irrelevant_rate": 0.125
+    },
+    "by_domain": {
+      "cardiology": {
+        "relevant": 1,
+        "partial": 2,
+        "irrelevant": 1,
+        "total": 4,
+        "relevant_rate": 0.25,
+        "partial_rate": 0.5,
+        "irrelevant_rate": 0.25
+      },
+      "endocrinology": {
+        "relevant": 0,
+        "partial": 2,
+        "irrelevant": 0,
+        "total": 2,
+        "relevant_rate": 0.0,
+        "partial_rate": 1.0,
+        "irrelevant_rate": 0.0
+      },
+      "psychiatry": {
+        "relevant": 0,
+        "partial": 2,
+        "irrelevant": 0,
+        "total": 2,
+        "relevant_rate": 0.0,
+        "partial_rate": 1.0,
+        "irrelevant_rate": 0.0
+      }
+    }
+  }
+}

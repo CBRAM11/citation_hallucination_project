@@ -1,0 +1,147 @@
+[
+  {
+    "id": "q01",
+    "system": "rag",
+    "domain": "cardiology",
+    "candidate": "Heartfelt Advances: ACC 2024 Clinical Trials Spotlight-New Horizons in Heart Failure Management.",
+    "relevance": "partial",
+    "note": "Broad heart-failure trials overview that may mention SGLT2 inhibitors, but it is not a direct study of SGLT2 inhibitors for heart failure treatment."
+  },
+  {
+    "id": "q01",
+    "system": "rag",
+    "domain": "cardiology",
+    "candidate": "Advances in Clinical Cardiology 2022: A Summary of Key Clinical Trials.",
+    "relevance": "partial",
+    "note": "Relevant to heart-failure trial literature and may include SGLT2 inhibitors, but it is still a broad summary rather than a direct treatment study."
+  },
+  {
+    "id": "q02",
+    "system": "rag",
+    "domain": "cardiology",
+    "candidate": "Wearables, telemedicine, and artificial intelligence in arrhythmias and heart failure: Proceedings of the European Society of Cardiology Cardiovascular Round Table",
+    "relevance": "relevant",
+    "note": "Directly discusses wearables in arrhythmias and includes atrial fibrillation detection context."
+  },
+  {
+    "id": "q02",
+    "system": "rag",
+    "domain": "cardiology",
+    "candidate": "Smartphones and wearable technology: benefits and concerns in cardiology",
+    "relevance": "partial",
+    "note": "Clearly about wearables in cardiology, but broader than atrial fibrillation detection specifically."
+  },
+  {
+    "id": "q13",
+    "system": "rag",
+    "domain": "infectious_disease",
+    "candidate": "Impact of covid-19 vaccination on long covid",
+    "relevance": "partial",
+    "note": "Relevant to long COVID, but focuses on vaccination impact rather than underlying biological mechanisms."
+  },
+  {
+    "id": "q13",
+    "system": "rag",
+    "domain": "infectious_disease",
+    "candidate": "How did COVID-19 affect medical and cardiology journals? A pandemic in literature",
+    "relevance": "irrelevant",
+    "note": "About publication trends, not long COVID symptoms or mechanisms."
+  },
+  {
+    "id": "q16",
+    "system": "rag",
+    "domain": "infectious_disease",
+    "candidate": "HIV HGM biobank as a research platform for paediatric infectious diseases and COVID-19 pandemic",
+    "relevance": "irrelevant",
+    "note": "About a biobank platform, not efficacy of antiretroviral therapy regimens in HIV management."
+  },
+  {
+    "id": "q16",
+    "system": "rag",
+    "domain": "infectious_disease",
+    "candidate": "Addressing HIV-1 latency with Flow-FISH: Finding, characterizing and targeting HIV-1 infected cells",
+    "relevance": "partial",
+    "note": "HIV-related and scientifically relevant, but not directly about clinical ART regimen efficacy."
+  },
+  {
+    "id": "q17",
+    "system": "rag",
+    "domain": "gastroenterology",
+    "candidate": "PUBLICATIONS IN INFLAMMATORY BOWEL DISEASES IN THE ARCHIVES OF GASTROENTEROLOGY",
+    "relevance": "irrelevant",
+    "note": "Appears bibliometric/editorial rather than a study of gut microbiome composition changes in IBD."
+  },
+  {
+    "id": "q17",
+    "system": "rag",
+    "domain": "gastroenterology",
+    "candidate": "AGA Technical Review on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+    "relevance": "partial",
+    "note": "Touches the microbiome/probiotics area, but not directly a study of gut microbiome composition changes in IBD."
+  },
+
+  {
+    "id": "q02",
+    "system": "constrained_rag",
+    "domain": "cardiology",
+    "candidate": "Wearables, telemedicine, and artificial intelligence in arrhythmias and heart failure: Proceedings of the European Society of Cardiology Cardiovascular Round Table.",
+    "relevance": "relevant",
+    "note": "Directly related to wearable detection of arrhythmias including atrial fibrillation."
+  },
+  {
+    "id": "q02",
+    "system": "constrained_rag",
+    "domain": "cardiology",
+    "candidate": "Smartphones and wearable technology: benefits and concerns in cardiology.",
+    "relevance": "partial",
+    "note": "Relevant to wearable technologies in cardiology, but broader than atrial fibrillation detection alone."
+  },
+  {
+    "id": "q03",
+    "system": "constrained_rag",
+    "domain": "cardiology",
+    "candidate": "Facilities in Molecular Biomarkers in Cardiology",
+    "relevance": "partial",
+    "note": "Biomarker-focused and cardiology-related, but broader than early diagnosis of acute myocardial infarction specifically."
+  },
+  {
+    "id": "q03",
+    "system": "constrained_rag",
+    "domain": "cardiology",
+    "candidate": "Prevention and treatment of premature ischaemic heart disease with European Society of Cardiology Guidelines",
+    "relevance": "irrelevant",
+    "note": "About prevention and treatment guidelines, not biomarker-based early diagnosis of acute MI."
+  },
+  {
+    "id": "q28",
+    "system": "constrained_rag",
+    "domain": "endocrinology",
+    "candidate": "Postmenopausal Osteoporosis: Latest Guidelines",
+    "relevance": "partial",
+    "note": "Relevant to bone health and fracture risk, but not specifically long-term glucocorticoid exposure."
+  },
+  {
+    "id": "q28",
+    "system": "constrained_rag",
+    "domain": "endocrinology",
+    "candidate": "Osteocrinology",
+    "relevance": "partial",
+    "note": "Bone/endocrine relevant, but very broad and not clearly about glucocorticoid-induced bone density loss."
+  },
+  {
+    "id": "q29",
+    "system": "constrained_rag",
+    "domain": "psychiatry",
+    "candidate": "Psychedelics and ketamine are a symptom of psychiatry's woes, not a cure",
+    "relevance": "partial",
+    "note": "Discusses ketamine in psychiatry, but not a direct efficacy study of ketamine or esketamine for treatment-resistant depression."
+  },
+  {
+    "id": "q29",
+    "system": "constrained_rag",
+    "domain": "psychiatry",
+    "candidate": "A randomized trial of a single dose of the novel N-methyl-D-aspartate antagonist MK-801 in patients with treatment-resistant major depression",
+    "relevance": "partial",
+    "note": "Relevant to rapid-acting NMDA-antagonist antidepressant mechanisms in treatment-resistant depression, but not specifically ketamine or esketamine."
+  }
+]

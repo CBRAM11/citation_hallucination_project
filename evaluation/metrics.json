@@ -1,0 +1,47 @@
+{
+  "vanilla": {
+    "total_questions": 510,
+    "total_citations": 970,
+    "valid": 0,
+    "partial": 0,
+    "hallucinated": 970,
+    "hallucination_rate": 1.0,
+    "valid_rate": 0.0,
+    "partial_rate": 0.0,
+    "retrieval_grounding_rate": 0.0,
+    "parse_errors": 0,
+    "parse_error_rate": 0.0,
+    "no_citation_rate": 0.0353,
+    "avg_citations_per_question": 1.902
+  },
+  "rag": {
+    "total_questions": 510,
+    "total_citations": 480,
+    "valid": 253,
+    "partial": 39,
+    "hallucinated": 188,
+    "hallucination_rate": 0.3917,
+    "valid_rate": 0.5271,
+    "partial_rate": 0.0813,
+    "retrieval_grounding_rate": 0.5271,
+    "parse_errors": 0,
+    "parse_error_rate": 0.0,
+    "no_citation_rate": 0.4471,
+    "avg_citations_per_question": 0.9412
+  },
+  "constrained_rag": {
+    "total_questions": 510,
+    "total_citations": 316,
+    "valid": 262,
+    "partial": 15,
+    "hallucinated": 39,
+    "hallucination_rate": 0.1234,
+    "valid_rate": 0.8291,
+    "partial_rate": 0.0475,
+    "retrieval_grounding_rate": 0.8291,
+    "parse_errors": 51,
+    "parse_error_rate": 0.1,
+    "no_citation_rate": 0.6216,
+    "avg_citations_per_question": 0.6196
+  }
+}
